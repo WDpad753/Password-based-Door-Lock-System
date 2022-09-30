@@ -1,4 +1,4 @@
-# Password-based-Door-Lock-System
+# Password based Door Lock System
 
 This repository is about a group project and the topic was about the design of a password-based door lock system using a micro-controller P89LPC932 and 4 Digit 7-Segments Display.
 
